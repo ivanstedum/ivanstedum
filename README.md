@@ -67,6 +67,17 @@
 </table>
 
 # **Work Experience**
+## **Software Engineer DevOps**
+### ***Cadence Design Systems***
+- Part of Development, Tools, & Metholodoloiges Team at Cadence Design Systems, a Full Stack Team creating Internal Tools for Product Teams at Cadence
+- Contributed to and maintained the internal company website used by R&D to track code quality, performance, and display GUI of internal tools using PHP, React, and Javascript
+- Improved regression testing efficiency for product by developing a Preliminary Run feature. Feature prioritizes testcases that previously failed under similar conditions, speeding up 78% of regression runs and reducing average
+time by 38%
+- Led a C++ compiler migration analysis by configuring product builds to change C++ compiler to Clang instead of GCC on ARM machines. While product performance remained the same, Linux machines running Clang showed
+a 25% speedup, influencing future build strategy discussions
+- Improved team efficiency by migrating their repository from Mercurial to GitHub, implementing GitHub Actions to establish a robust CI/CD pipeline for automating tests, packaging, and deployment, resulting in faster and more
+reliable workflows
+
 ## **Software Engineer Intern**
 ### ***SunPower***
 - Member of the Virtual Power Plant team, a backend system connecting utility companies to SunPower customers Utilizing Python, FastAPI, gRPC, and SQL.
@@ -88,8 +99,11 @@
 -   **HTML5**
 -   **CSS3**
 -   **Bootstrap**
+-   
 -
 -
+-
+
 
 </div>
   </td>
@@ -100,6 +114,8 @@
 ### **Back-end:**
 
 -   **Python**
+-   **PHP**
+-   **MYSQL**
 -   **C#**
 -   **SQL**
 -   **PostgreSQL**
